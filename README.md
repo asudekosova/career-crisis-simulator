@@ -16,10 +16,6 @@ Yeni mezunların kariyer yolculuğunu mizahi şekilde analiz eden interaktif web
 - CSS3
 - JavaScript
 
-## Amaç
-
-Bu proje web geliştirme öğrenme sürecinde oluşturulmuştur.
-
 ## Durum
 
 v1.0 tamamlandı.
